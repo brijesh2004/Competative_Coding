@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "regex": "cpp"
+        "regex": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp"
     }
 }
